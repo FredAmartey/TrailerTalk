@@ -2,9 +2,9 @@
 ssh fred@trailertalk.xyz <<EOF        
  cd ../..
  cd /var/www/trailertalk.xyz/trailertalk 
- sudo git pull       
- sudo npm install
- sudo npm run build       
- sudo pm2 restart all
+ git pull       
+ npm install
+ npm run build       
+ pm2 restart all
  exit       
 EOF
