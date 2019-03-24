@@ -1,6 +1,7 @@
 -#!/bin/sh      
 ssh fred@trailertalk.xyz <<EOF        
- cd /trailertalk  
+ cd ../..
+ cd /var/www/trailertalk.xyz/trailertalk 
  sudo git pull       
  sudo npm install
  sudo npm run build       
