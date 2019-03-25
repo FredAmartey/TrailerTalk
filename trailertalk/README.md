@@ -1,6 +1,5 @@
 ## How to run
 
-(Testing webhook...)
 In the project directory, you can run:
 
 ### `npm start`
