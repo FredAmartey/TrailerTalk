@@ -13,7 +13,7 @@ class App extends Component {
           </p>
           <a
             className="App-link"
-            href="https://trailertalk.xyz"
+            href="https://github.com/FredAmartey/TrailerTalk"
             target="_blank"
             rel="noopener noreferrer"
           >
